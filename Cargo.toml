@@ -1,0 +1,7 @@
+[package]
+name = "skype-rust"
+version = "0.1.0"
+authors = ["Allan Simon <simona@gobeta.com.cn>"]
+
+[dependencies]
+num = "0.1"
